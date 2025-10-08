@@ -13,6 +13,7 @@
 ![Render](https://img.shields.io/badge/Deployed_on-Render-5a5a5a?logo=render)
 
 **Live Demo** (Render Free Tier - Please be patient) → 🌐 [https://laptop-cost-evaluation-project.onrender.com/](https://laptop-cost-evaluation-project.onrender.com/)
+Or Refer Installation Guide and Usage Instructions!!
 
 A sophisticated, lightning-fast web application that leverages machine learning to accurately predict laptop market prices based on technical specifications. Perfect for buyers, sellers, and tech enthusiasts who need instant price evaluations!
 
