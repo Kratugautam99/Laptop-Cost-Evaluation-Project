@@ -119,7 +119,7 @@ Laptop-Cost-Evaluation-Project/
 
 ### Environment Setup
 
-#### 🟦 PowerShell (Recommended)
+#### 🟦 PowerShell (Recommended) 
 ```powershell
 # Create and activate virtual environment
 py -3.10 -m venv laptop-env
@@ -138,6 +138,10 @@ py -3.10 -m venv laptop-env
 .\laptop-env\Scripts\activate.bat
 ```
 
+#### 🚿 Through "environment.yml" and Conda [Above Steps are Not-Required]
+```console
+conda env create -f environment.yml
+```
 ---
 
 ## 🚀 Usage Instructions
