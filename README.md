@@ -1,4 +1,4 @@
-# Laptop Cost Evaluation Project
+# 💻 Laptop Cost Evaluation Project
 ---
 
 <p align="center">
