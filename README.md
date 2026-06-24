@@ -95,6 +95,8 @@ Laptop-Cost-Evaluation-Project/
 ├── 🔬 Laptop_Regression.ipynb        # Complete EDA & model training
 ├── 📋 requirements.txt               # Python dependencies
 ├── 🎯 enviroment.yml                 # Conda environment configuration
+├── 📖 README.md                      # This File
+├── 🔖 Packages.txt                   # Packages Mapped
 │
 ├── 🤖 model/                        # ML artifacts
 │   ├── laptop_cost_model.h5          # Trained TensorFlow model
